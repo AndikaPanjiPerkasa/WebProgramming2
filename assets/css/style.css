@@ -1,0 +1,10 @@
+@font-face{
+  font-family: "Lobster";
+  src: url('Lobster 1.4.otf');
+}
+
+.text-h2{
+    color : black;
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+}
